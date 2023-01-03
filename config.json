@@ -1,0 +1,31 @@
+{
+    "feature_name": [
+        "age",
+        "swimming_time",
+        "gender",
+        "conjunctiva_swelling",
+        "eye_itching",
+        "eye_tearing",
+        "bloody_waste",
+        "stomach_cramps",
+        "fever",
+        "ear_pus",
+        "ear_pain",
+        "ear_itching",
+        "temporary_loss_hearing",
+        "infection_skin",
+        "skin_redness",
+        "skin_itching",
+        "pus_blisters_in_skin",
+        "bloody_urine",
+        "pain_while_urinating",
+        "frequent_urination"
+    ],
+    "advise": {
+        "pink_eye": "+ Người bệnh có thể tự chườm lạnh để giảm triệu chứng phù nề; rửa mặt bằng nước lạnh và sạch và nhỏ nước mắt nhân tạo.\n+ Nếu bị dử mắt, hãy đắp một lát chanh lên ống tuyến lệ, mi mắt.\n+ Sử dụng thuốc kháng sinh, kháng viêm hoặc mỡ tra mắt để điều trị.\n+ Tránh tiếp xúc với tác nhân gây bệnh nếu biết; bác sĩ sẽ kê toa thuốc nhỏ hoặc thuốc uống giảm tình trạng dị ứng.\n+ Nhỏ nước mắt nhân tạo để giảm cảm giác ngứa.",
+        "diarrhea": "+ Bù nước và chất điện giải như dung dịch muối bù nước (ORS). Nếu không thể uống nước do gây ra cảm giác buồn nôn hay đau dạ dày, bạn có thể cần được truyền dịch qua tĩnh mạch.\n+ Sử dụng thuốc kháng sinh trong trường hợp bệnh tiêu chảy được xác định là do vi khuẩn hoặc ký sinh trùng gây ra,\n+ Dọn dẹp sạch sẽ nhà vệ sinh để tránh lây bệnh cho những thành viên khác trong gia đình.",
+        "otitis_externa": "+ Sử dụng thuốc nhỏ tai chứa kháng sinh từ 10 - 14 ngày là bệnh sẽ thuyên giảm.\n+ Nếu bệnh gây đau nhiều hoặc nguy cơ tiến triển nặng, người bệnh cần điều trị tích cực hơn bằng: Thuốc uống Corticosteroid để giảm viêm, thuốc kháng sinh, thuốc giảm đau loại ibuprofen (Motrin, Advil) hoặc acetaminophen.\n+ Chăm sóc vệ sinh sạch sẽ tai trong suốt quá trình điều trị và sau điều trị cũng rất quan trọng: Chườm nước ấm sẽ giúp người bệnh dễ chịu hơn. Đặc biệt không được để khoang tai ướt, cần vệ sinh sạch sẽ cho đến khi tất cả triệu chứng bệnh bệnh biến mất sau 1 tuần, giảm cơn đau nhẹ.",
+        "skin_rash": "+ Một biện pháp khá an toàn và hiệu quả để cải thiện tình trạng này chính là sử dụng khăn lạnh và chườm lên những vùng da bị kích ứng, tổn thương. Phương pháp này không chỉ phù hợp với người lớn mà còn có thể áp dụng với trẻ nhỏ.\n+ Sử dụng tinh dầu bạc hà hoặc gel nha đam để làm dịu mát da, giảm viêm, giảm ngứa rất tốt. Đồng thời, còn phòng ngừa tình trạng nhiễm trùng do vi khuẩn rất hiệu quả.\n+ Dùng nước ấm để vệ sinh cơ thể mỗi ngày. Nếu người bệnh cảm thấy yếu và có triệu chứng ớn lạnh, run khi tắm thì có thể dùng khăn ấm để lau sạch cơ thể.\n+ Khám bác sỹ nếu có các dấu hiện nặng hơn như: Phát ban nhiều hơn, bọng nước xuất huyết lan rộng, sưng đỏ, sốt, ban da bị đau,…",
+        "urinary_tract_infection": "+ Cần đến các cơ sở y tế để lấy mẫu nước tiểu và kiểm tra và điều trị\n+ Sử dụng thuốc kháng sinh để điều trị việc nhiễm trùng theo đúng chu trình được bác sỹ đưa ra.\n+ Ta có thể sử dụng các cách sau để cảm thấy thoải mái hơn: Uống thật nhiều nước. Nghỉ ngơi thật nhiều để cơ thể chống chọi với việc nhiễm trùng. Sử dụng gói trườm ấm trườm lên vùng bụng và lưng để giảm đau.\n+ Nếu sử dụng thuốc kháng sinh không giúp ta cảm thấy đỡ hơn sau 24 tiếng, ta nên đến khám tại tại các cơ sở y tế."
+    }
+}
