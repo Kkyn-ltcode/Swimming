@@ -115,5 +115,5 @@ with st.form('symtom_form'):
         else:
             for disease_name, prediction in results.items():
                 if prediction == 1:
-                    st.write(f'Disease: {disease_name}')
+                    st.write(f'Disease: {diseases[disease_name]}')
                     st.write(config['advise'][disease_name])
